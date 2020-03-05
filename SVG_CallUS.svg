@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="364" height="84" viewBox="0 0 364 84">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a5e868"/>
+      <stop offset="1" stop-color="#068600"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-84 -266)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="364" height="84" rx="11" transform="translate(84 266)" fill="url(#linear-gradient)"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(6.433)">
+      <g id="phone" transform="translate(140.567 282.567)">
+        <g id="Group_6" data-name="Group 6">
+          <path id="Path_1" data-name="Path 1" d="M43.106,30.762a26.609,26.609,0,0,1-8.356-1.331,3.82,3.82,0,0,0-3.715.783l-5.27,3.978A29.122,29.122,0,0,1,12.671,21.1l3.861-5.132a3.788,3.788,0,0,0,.932-3.838,26.65,26.65,0,0,1-1.336-8.37A3.765,3.765,0,0,0,12.367,0H3.761A3.765,3.765,0,0,0,0,3.761,43.154,43.154,0,0,0,43.106,46.866a3.765,3.765,0,0,0,3.761-3.761V34.523A3.765,3.765,0,0,0,43.106,30.762Z" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Call_Us" data-name="Call Us" transform="translate(222 324)" fill="#fff" font-size="46" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Call Us</tspan></text>
+    </g>
+  </g>
+</svg>
